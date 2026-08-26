@@ -20,27 +20,50 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=3&amp;section=header" width="100%"/>
+# 💫 About Me
 
-## 💫 About Me
-
-Hi 👋, I'm **Aryan Singh** — a Frontend Developer who enjoys creating clean, modern, and meaningful digital experiences, and I'm expanding into full-stack development and applied AI.
+Hi 👋, I'm **Vivekanand Chandola** — a **Computer Science & Engineering student, programmer, and tech enthusiast** who enjoys solving problems, learning new technologies, and turning ideas into practical projects. I'm currently strengthening my skills in **Python, DSA, web technologies, AI/ML, databases, and IoT**, while continuously working on my professional and technical growth.
 
 ```yaml
-currently_working_on: Building modern, responsive, and user-focused web applications
-looking_to_collaborate_on: Creative frontend projects, full-stack apps, and open-source ideas
-looking_for_help_with: Writing cleaner code, improving project architecture, and building scalable web apps
-currently_learning: Next.js, backend development, system design fundamentals, and machine learning
-ask_me_about: Frontend development, responsive design, GitHub, web projects, and clean UI design
-fun_fact: I don't just build websites — I turn ideas into digital experiences
+currently_working_on: Strengthening DSA, Python, web development, and building practical technology projects
+looking_to_collaborate_on: Python projects, web applications, AI/ML ideas, IoT projects, and open-source initiatives
+looking_for_help_with: Writing better code, improving problem-solving, understanding advanced CS concepts, and building industry-ready projects
+currently_learning: DSA, Python, web technologies, AI/ML, databases, software development, and industry-level development practices
+ask_me_about: Python, DSA, web technologies, IoT projects, student projects, coding journey, leadership, and event management
+fun_fact: I don't just learn technology — I like turning what I learn into projects, experiments, and real-world solutions
 ```
 
 ### 🚀 What I bring to a team
 
-- 🧩 **Full-stack capable** — comfortable across the stack, from pixel-perfect UI to REST APIs and databases
-- 🏗️ **CS fundamentals first** — DSA, OOP, DBMS, OS, and networking underpin how I approach problems, not just frameworks
-- 🤖 **AI-curious builder** — actively exploring ML fundamentals and AI-powered application development
-- 🔁 **Ships and iterates** — version control, CI/CD, and clean deployment workflows are part of how I work, not an afterthought
-- 🧠 **Problem solver** — competitive programming and debugging discipline carried into everyday code quality
+* 🧩 **Problem-solving mindset** — actively practicing DSA and solving coding problems to strengthen my logical thinking and programming fundamentals
+
+* 🏗️ **CS fundamentals first** — building a strong foundation in **DSA, DBMS, Operating Systems, Computer Networks, OOP, and Software Engineering**
+
+* 🐍 **Python-focused developer** — working with Python for programming, problem-solving, automation, and project development while continuously improving my coding skills
+
+* 🌐 **Web & technology enthusiast** — exploring **HTML, CSS, JavaScript, PHP, MySQL, and modern web technologies** to build practical applications
+
+* 🤖 **AI/ML & IoT curious builder** — exploring AI/ML concepts while working on projects involving **smart systems, automation, recommendation systems, and IoT**
+
+* 🔧 **Project-oriented learner** — I've worked on projects such as **BMI Calculator, Random Password Generator, Smart Plant Monitoring, Gas Detection, Smart Parking, Moisture Monitoring, and Smart Colony systems**
+
+* 🎓 **Industry-focused learner** — gaining experience through internships and practical programs, including **Python, AICTE, software/web development, and technology-focused internship work**
+
+* 🧠 **Continuous learner** — currently following a **DSA learning journey**, documenting my progress and focusing not only on solving problems but understanding **patterns, complexity, and efficient solutions**
+
+* 👥 **Leadership & communication** — experienced in **leadership, event organization, communication, and coordinating people**, bringing both technical and people skills to a team
+
+* 🚀 **Builder mindset** — I don't want to learn technology only for certificates; I want to **build, experiment, solve problems, and create things that have real-world value**
+
+### 🌱 My Current Focus
+
+> **Learn → Build → Solve → Improve → Repeat**
+
+I'm working toward becoming a **strong software developer** with solid CS fundamentals, practical development skills, and the ability to solve real-world problems.
+
+I'm not just trying to become better at coding.
+
+**I'm trying to become better at thinking, building, and solving problems.** 💻🐍🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=3&amp;section=header" width="100%"/>
 
