@@ -1,8 +1,8 @@
-<img width="1200" height="675" alt="_ (1)" src="https://github.com/user-attachments/assets/606b274a-b5cd-47ec-80c0-3328456501fc" />
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,100:06B6D4&amp;height=220&amp;section=header&amp;text=Aryan%20Singh&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Frontend%20Developer%20%7C%20React%20%7C%20Full%20Stack%20and%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,100:06B6D4&amp;height=220&amp;section=header&amp;text=Vivekanand%20Chandola&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Frontend%20Developer%20%7C%20React%20%7C%20Full%20Stack%20and%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+clean%2C+modern+web+experiences;Full-Stack+%7C+React.js+%7C+Next.js+%7C+Node.js;Exploring+AI%2FML+and+Applied+Machine+Learning;Open+to+Frontend+%2F+Full-Stack+opportunities" alt="Typing SVG" />
