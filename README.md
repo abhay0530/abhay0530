@@ -19,7 +19,5 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=3&amp;section=header" width="100%"/>
-.
 
-```yaml
 
