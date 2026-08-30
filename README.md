@@ -22,9 +22,4 @@
 .
 
 ```yaml
-currently_working_on: Strengthening DSA, Python, web development, and building practical technology projects
-looking_to_collaborate_on: Python projects, web applications, AI/ML ideas, IoT projects, and open-source initiatives
-looking_for_help_with: Writing better code, improving problem-solving, understanding advanced CS concepts, and building industry-ready projects
-currently_learning: DSA, Python, web technologies, AI/ML, databases, software development, and industry-level development practices
-ask_me_about: Python, DSA, web technologies, IoT projects, student projects, coding journey, leadership, and event management
-fun_fact: I don't just learn technology — I like turning what I learn
+
